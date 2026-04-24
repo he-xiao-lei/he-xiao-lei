@@ -28,18 +28,16 @@ I'm a professional back-end engineer focusing on **Java, Spring Boot, Spring Clo
 ---
 
 ### 📊 GitHub Stats
-![he-xiao-lei](https://github-readme-stats.vercel.app/api?username=【你的GitHub用户名】&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=【你的GitHub用户名】&layout=compact&theme=transparent&hide_border=true)
+![he-xiao-lei](https://github-readme-stats.vercel.app/api?username=he-xiao-lei&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he-xiao-lei&layout=compact&theme=transparent&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=【你的GitHub用户名】&theme=transparent&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=he-xiao-lei&theme=transparent&hide_border=true)
 
 ---
 
-### 🔥 Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=【你的GitHub用户名】&repo=【仓库名1】&theme=transparent&hide_border=true)](https://github.com/【你的GitHub用户名】/【仓库名1】)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=【你的GitHub用户名】&repo=【仓库名2】&theme=transparent&hide_border=true)](https://github.com/【你的GitHub用户名】/【仓库名2】)
+
 
 ---
 
 ### 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/【你的GitHub用户名】/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/he-xiao-lei/count.svg)
